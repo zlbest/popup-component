@@ -1,15 +1,15 @@
 # popup-component
-vue实现popup组件
+vue实现三种类型的popup组件
 ***
 
-###类型
+### 类型
 
 * 顶部消息toast展示
 * 底部弹出框
 * 左侧弹出框
 ***
 
-###效果
+### 效果
 
 ![组件显示按钮](https://github.com/zlbest/popup-component/blob/master/images/captured.png)
 
